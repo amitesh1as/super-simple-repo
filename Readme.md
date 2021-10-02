@@ -9,4 +9,10 @@ Follow the steps to create a responsive Login form using CSS.
 
 Step 1 : Adding HTML
 Add an image inside a container and add inputs with matching labels for each field. Wrap a “form” element around them to process the input.
+Follow the steps to create a responsive Login form using CSS.
+
+Step 2 : Adding CSS
+Add the required CSS to design the login page try to keep the design as simple as possible.
+
+Program: This code will guide you through comments that how to design design and which property is used for which design to create.
 
