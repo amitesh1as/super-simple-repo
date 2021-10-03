@@ -18,3 +18,7 @@ Add the required CSS to design the login page try to keep the design as simple a
 Program: This code will guide you through comments that how to design design and which property is used for which design to create.
 
 great upcoming events
+In this Form (Login and Registration Form in HTML), on the webpage, there is a login form and two toggle buttons at the top of the form labeled as Login and Signup as you can see in the preview image above. When you click on the signup button, the login form smoothly slides from the right to the left side and shows you the signup form.
+And again after clicking the login button, the signup form slide from the left to the right side and shows you the login form. In this form, the login and signup forms both are on the same page.
+
+I used JavaScript only to slide the form on button click and the toggle tab which slides from login text to signup text and signup text to login text is fully based on pure HTML & CSS. If you like this login form then you can easily get the source codes of this form from the given copy code boxes.
